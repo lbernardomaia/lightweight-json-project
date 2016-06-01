@@ -1,0 +1,68 @@
+vendors = '[ \
+					{ \
+						"name"          :  "Kasimir" , \
+						"email"         :  "lectus.pede@Nunccommodoauctor.org" , \
+						"company"       :  "lectus.pede@Nunccommodoauctor.org" , \
+						"phone-fax"     :  "1-597-130-5012" \
+					}, \
+					{ \
+						"name"          :  "Leroy" , \
+						"email"         :  "posuere.enim.nisl@ullamcorpereu.edu" , \
+						"company"       :  "Sit Corporation" , \
+						"phone-fax"     :  "1-681-482-8148" \
+					}, \
+					{ \
+						"name"          :  "Isaiah" , \
+						"email"         :  "Cum.sociis@pedemalesuadavel.edu" , \
+						"company"       :  "Ornare Sagittis Ltd" , \
+						"phone-fax"     :  "1-737-481-1713" \
+					}, \
+					{ \
+						"name"          :  "Brandon" , \
+						"email"         :  "sed.pede.nec@iaculis.edu" , \
+						"company"       :  "Etiam Gravida Foundation" , \
+						"phone-fax"     :  "1-881-488-9166" \
+					}, \
+					{ \
+						"name"          :  "Vaughan" , \
+						"email"         :  "et@ultricesposuerecubilia.org" , \
+						"company"       :  "Blandit Limited" , \
+						"phone-fax"     :  "1-505-583-2777" \
+					}, \
+					{ \
+						"name"          :  "Clarke" , \
+						"email"         :  "risus@Quisquefringilla.ca" , \
+						"company"       :  "Sit Amet Luctus Consulting" , \
+						"phone-fax"     :  "1-469-908-5349" \
+					}, \
+					{ \
+						"name"          :  "Ethan" , \
+						"email"         :  "est@lobortisnisinibh.com" , \
+						"company"       :  "Ipsum Corporation" , \
+						"phone-fax"     :  "1-292-121-4945" \
+					}, \
+					{ \
+						"name"          :  "Hilel" , \
+						"email"         :  "mattis.Cras.eget@sed.co.uk" , \
+						"company"       :  "Dignissim Magna LLC" , \
+						"phone-fax"     :  "1-173-235-7569" \
+					}, \
+					{ \
+						"name"          :  "Laith" , \
+						"email"         :  "euismod.enim@duiFusce.net" , \
+						"company"       :  "Mauris Rhoncus Id LLC" , \
+						"phone-fax"     :  "1-592-851-3969" \
+					}, \
+					{ \
+						"name"          :  "Conan" , \
+						"email"         :  "augue.ac@magnaPhasellus.org" , \
+						"company"       :  "Arcu Et Industries" , \
+						"phone-fax"     :  "1-813-937-3220" \
+					}, \
+					{ \
+						"name"          :  "Isaac" , \
+						"email"         :  "id.risus@tristiquepharetraQuisque.edu" , \
+						"company"       :  "Erat LLP" , \
+						"phone-fax"     :  "1-429-984-4033" \
+					} \
+]';

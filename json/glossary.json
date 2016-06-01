@@ -1,0 +1,22 @@
+glossary = '[ \
+					{ \
+						"acronym"      :  "ADC" , \
+						"meaning"      :  "Analog-to-Digital Converter" \
+					}, \
+					{ \
+						"acronym"      :  "CLOB" , \
+						"meaning"      :  "Character Large Object." \
+					}, \
+					{ \
+						"acronym"       :  "FAQ" , \
+						"meaning"      :  "Frequently Asked Questions." \
+					}, \
+					{ \
+						"acronym"      :  "DDL" , \
+						"meaning"      :  "Data Definition Language." \
+					}, \
+					{ \
+						"acronym"      :  "MP3" , \
+						"meaning"      :  "MPEG-1 Audio Layer-3" \
+					} \
+]';

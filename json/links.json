@@ -1,0 +1,9 @@
+links = '[ \
+					{ \
+						"name"         :  "Gestão de demanda (GD)" , \
+						"address"      :  "http://domino.bradseg.com.br" \
+					},{ \
+						"name"         :  "Apoio desenvolvimento (Consoles, logs e etc)" , \
+						"address"      :  "http://www.dsv.bradseg.com.br/apoio/" \
+					} \
+]';

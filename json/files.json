@@ -1,0 +1,22 @@
+files = '[ \
+					{ \
+						"description"            :  "Lorem Ipsum Example 3" , \
+						"path"                   :  "files/lorem_ipsum3.txt" , \
+						"name"                   :  "lorem_ipsum3.txt" \
+				    } , \
+					{ \
+						"description"            :  "Lorem Ipsum Example 1" , \
+						"path"                   :  "files/lorem_ipsum1.txt" , \
+						"name"                   :  "lorem_ipsum1.txt" \
+				    } , \
+					{ \
+						"description"            :  "Lorem Ipsum Example 2" , \
+						"path"                   :  "files/lorem_ipsum2.txt" , \
+						"name"                   :  "lorem_ipsum2.txt" \
+				    } , \
+					{ \
+						"description"            :  "Lorem Ipsum Example 4" , \
+						"path"                   :  "files/lorem_ipsum4.txt" , \
+						"name"                   :  "lorem_ipsum4.txt" \
+				    } \
+]';

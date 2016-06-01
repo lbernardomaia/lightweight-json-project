@@ -1,0 +1,68 @@
+customers = '[ \
+					{ \
+						"name"          :  "Dane" , \
+						"email"         :  "non@eunullaat.ca" , \
+						"company"       :  "Aliquam Erat Volutpat LLC" , \
+						"phone-fax"     :  "1-827-631-7835" \
+					}, \
+					{ \
+						"name"          :  "Hall" , \
+						"email"         :  "ligula@fringillaporttitorvulputate.ca" , \
+						"company"       :  "Augue Porttitor Interdum Consulting" , \
+						"phone-fax"     :  "1-862-670-5402" \
+					}, \
+					{ \
+						"name"          :  "Lyle" , \
+						"email"         :  "ridiculus.mus@tortorNunccommodo.org" , \
+						"company"       :  "Ligula Donec Institute" , \
+						"phone-fax"     :  "1-997-418-0721" \
+					}, \
+					{ \
+						"name"          :  "Hashim" , \
+						"email"         :  "cursus@lacusCrasinterdum.net" , \
+						"company"       :  "Id Ante Incorporated" , \
+						"phone-fax"     :  "1-531-105-2789" \
+					}, \
+					{ \
+						"name"          :  "Stewart" , \
+						"email"         :  "tortor@vulputateposuere.co.uk" , \
+						"company"       :  "Nibh Aliquam PC" , \
+						"phone-fax"     :  "1-599-712-6479" \
+					}, \
+					{ \
+						"name"          :  "Vance" , \
+						"email"         :  "lorem.eget@Quisquepurussapien.ca" , \
+						"company"       :  "Quis LLP" , \
+						"phone-fax"     :  "1-619-289-4768" \
+					}, \
+					{ \
+						"name"          :  "Dolan" , \
+						"email"         :  "Ut@ipsumsodalespurus.edu" , \
+						"company"       :  "Est Congue A Ltd" , \
+						"phone-fax"     :  "1-368-557-9167" \
+					}, \
+					{ \
+						"name"          :  "Emmanuel" , \
+						"email"         :  "dapibus.ligula.Aliquam@Proin.edu" , \
+						"company"       :  "Eget LLP" , \
+						"phone-fax"     :  "1-696-322-7352" \
+					}, \
+					{ \
+						"name"          :  "Noble" , \
+						"email"         :  "Sed.pharetra@justoeuarcu.ca" , \
+						"company"       :  "Id Libero Associates" , \
+						"phone-fax"     :  "1-347-722-9423" \
+					}, \
+					{ \
+						"name"          :  "Lionel" , \
+						"email"         :  "cubilia.Curae@felis.org" , \
+						"company"       :  "Mollis Integer PC" , \
+						"phone-fax"     :  "1-447-497-5091" \
+					}, \
+					{ \
+						"name"          :  "Dane" , \
+						"email"         :  "magna@etmalesuadafames.net" , \
+						"company"       :  "Semper Pretium Inc." , \
+						"phone-fax"     :  "1-538-393-0547" \
+					} \
+]';
