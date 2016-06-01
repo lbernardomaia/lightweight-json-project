@@ -1,6 +1,6 @@
 ﻿#lightweight-json-project
-   lightweight-json-project was developed in order to help a create quickly a static project 
-   using JSON files as Resource to show the data in the page
+   light-json-project was developed to help quickly create a static project, 
+   using JSON files as a resource to display the data on page
 
    For developed this project was used:
    
